@@ -1,2 +1,1 @@
-# AI-Article-Summarizer
-A Chrome Extension that uses AI to summarize articles quickly. Simply browse any web article, click the extension, and get a concise summary powered by AI. Built with JavaScript, HTML, and optional integration with AI APIs like OpenAI.
+AI-Article-Summarizer: This Chrome Extension leverages the power of Gemini AI to provide fast and accurate summaries of any web article. Simply browse an article, click the extension icon, and receive a concise, AI-generated summary. It features a clean popup interface, optional API key configuration for personalized use, and works on any website. Perfect for quickly understanding content without reading the full article, making research and browsing more efficient.
